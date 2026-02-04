@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Sulli and I'm a learning developer, from Germany</h2>
+<h2 align="center">Hi 👋! I'm Sulli, a Learning Developer from Germany and a Video Editor for various creative projects.</h2>
+
 
 ###
 
